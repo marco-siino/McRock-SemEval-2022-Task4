@@ -3,7 +3,7 @@ This repo contains data and code for our first submission to solve SemEval-2022 
 For detailed description of our models, please see the paper "McRock at SemEval-2022 Task 4: Patronizing and Condescending
 Language Detection using Multi-Channel CNN and DistilBERT" by M.Siino et al.
 
-## Tasks Description 
+## SubTasks Description 
 * Subtask 1: Binary classification. Given a paragraph, a system must predict whether or not it contains any form of PCL. 
 
 * Subtask 2: Multi-label classification. Given a paragraph, a system must identify which PCL categories express the condescension. Our PCL taxonomy has been defined based on previous works on PCL. We consider the following categories:
@@ -25,8 +25,8 @@ Language Detection using Multi-Channel CNN and DistilBERT" by M.Siino et al.
 ## Code
 The following code can be execute on Google Colab.
 
-* Task 1 Notebook:
-* Task 2 Notebook:
+* SubTask 1 Notebook:
+* SubTask 2 Notebook: SemEval2022_Task4_SubTask2_Submission1_MSiino_DistilBERT.ipynb
 
 ## Useful Links
 * [Task description paper](https://arxiv.org/abs/2106.07385)

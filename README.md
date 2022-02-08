@@ -8,21 +8,25 @@ Language Detection using Multi-Channel CNN and DistilBERT" by M.Siino et al.
 
 * Subtask 2: Multi-label classification. Given a paragraph, a system must identify which PCL categories express the condescension. Our PCL taxonomy has been defined based on previous works on PCL. We consider the following categories:
 
-  Unbalanced power relations.
+  ** Unbalanced power relations.
 
-    Shallow solution. 
+  ** Shallow solution. 
 
-    Presupposition. 
+  ** Presupposition. 
 
-    Authority voice. 
+  ** Authority voice. 
 
-    Metaphor. 
+  ** Metaphor. 
 
-    Compassion. 
+  ** Compassion. 
 
-    The poorer, the merrier. 
+  ** The poorer, the merrier. 
+  
+## Code
+The following code can be execute on Google Colab.
 
-https://colab.research.google.com/drive/1kJ_b8yzujz9CDjgP8-UqlEqavI18Lvyg
+* Task 1 Notebook:
+* Task 2 Notebook:
 
 ## Useful Links
 * [Task description paper](https://arxiv.org/abs/2106.07385)

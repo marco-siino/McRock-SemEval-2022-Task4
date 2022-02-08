@@ -29,5 +29,5 @@ The following code can be execute on Google Colab.
 * SubTask 2 Notebook: **SemEval2022_Task4_SubTask2_Submission1_MSiino_DistilBERT**.ipynb
 
 ## Useful Links
-* [Task description paper](https://arxiv.org/abs/2106.07385)
+* [Task description paper](TBD)
 * [Official website](https://sites.google.com/view/pcl-detection-semeval2022/) of the task

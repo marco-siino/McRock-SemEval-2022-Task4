@@ -25,7 +25,7 @@ Language Detection using Multi-Channel CNN and DistilBERT" by M.Siino et al.
 ## Code
 The following code can be execute on Google Colab.
 
-* SubTask 1 Notebook:
+* SubTask 1 Notebook: **SemEval2022_Task4_SubTask1_Submission1_MSiino_MultiCNN**.ipynb
 * SubTask 2 Notebook: **SemEval2022_Task4_SubTask2_Submission1_MSiino_DistilBERT**.ipynb
 
 ## Useful Links

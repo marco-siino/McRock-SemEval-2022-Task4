@@ -1,5 +1,5 @@
 # McRock-SemEval-2022-Task4
-This repo contains data and code for two submissions to solve SemEval-2022 Task 4: Patronizing and Condescending Language Detection
+This repo contains data and code for our two submissions to solve SemEval-2022 Task 4: Patronizing and Condescending Language Detection. 
 For detailed description of our models, please see the paper "McRock at SemEval-2022 Task 4: Patronizing and Condescending Language Detection using Multi-Channel CNN, Hybrid LSTM, DistilBERT and XLNet" by M.Siino et al.
 
 ## SubTasks Description 

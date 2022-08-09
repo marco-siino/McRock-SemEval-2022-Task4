@@ -30,14 +30,14 @@ The following code can be executed on Google Colab.
 * SubTask 2 Notebook: **SemEval2022_Task4_SubTask2_Submission2_MSiino_XLNet**.ipynb
 
 ## BIBTEX
-@inproceedings{siino2022multicnn,
-title={{McRock at SemEval-2022 Task 4: Patronizing and Condescending Language Detection using Multi-Channel CNN, Hybrid LSTM, DistilBERT and XLNet}},
-author={Siino, Marco and La Cascia, Marco and Tinnirello, Ilenia},
-booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)},
-year={2022},
-publisher={Association for Computational Linguistics}
+@inproceedings{siino2022mcrock,
+  title={McRock at SemEval-2022 Task 4: Patronizing and Condescending Language Detection using Multi-Channel CNN, Hybrid LSTM, DistilBERT and XLNet},
+  author={Siino, Marco and La Cascia, Marco and Tinnirello, Ilenia},
+  booktitle={Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)},
+  pages={409--417},
+  year={2022}
 }
 
 ## Useful Links
-* [Task description paper](TBD)
+* [Description paper](https://aclanthology.org/2022.semeval-1.55/)
 * [Official website](https://sites.google.com/view/pcl-detection-semeval2022/) of the task
